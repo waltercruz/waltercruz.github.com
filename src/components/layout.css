@@ -634,3 +634,11 @@ main {
   height: 280px;
   border-radius: 50%;
 }
+
+a {
+  text-decoration: none;
+}
+
+a + a {
+  margin-top: 15px;
+}
