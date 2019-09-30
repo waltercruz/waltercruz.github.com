@@ -630,13 +630,15 @@ main {
 }
 
 .head {
-  width: 280px;
-  height: 280px;
+  width: 96px;
+  height: 96px;
   border-radius: 50%;
 }
 
 a {
   text-decoration: none;
+  display: block;
+  width: 100%;
 }
 
 a + a {
